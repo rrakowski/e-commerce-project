@@ -1,4 +1,4 @@
-# E-commerce exemplary-projects
+#  E-commerce exemplary-projects
 
 ## Ipython notebook codes to solve an e-commerce problem to map one-to-many of a product list to various marketplaces (channels) and regions (countries).
 
