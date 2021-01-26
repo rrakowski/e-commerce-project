@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # E-commerce exemplary-projects
 
 ## Ipython notebook codes to solve an e-commerce problem to map one-to-many of a product list to various marketplaces (channels) and regions (countries).
@@ -10,7 +9,3 @@
 3) Size_&_Master_mapper_4_e-commerce_app.ipynb - notbook combining 1) & 2).
 
 4) Report_data_analysis.ipynb - notebook presenting analysis (sales to various EU countires in Spring 2020) done for an examplary e-commerce company based in the UK.
-=======
-# exemplary-projects
-Ipython notebook codes for E-commerce problem to map one-to-many of a product list to various marketplaces (channels) and regions (countries) 
->>>>>>> 9b500b3531e792295ca957aa6231853f1bf6669a
