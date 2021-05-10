@@ -11,3 +11,5 @@
 4) Report_data_analysis.ipynb - notebook presenting analysis (sales to various EU countires in Spring 2020) done for an examplary e-commerce company based in the UK.
    
    Link to exemplary Bokeh chart analysis [deployed to Heroku](https://organic-fig1.herokuapp.com/).
+   
+   :+1:
